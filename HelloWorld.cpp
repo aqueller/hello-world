@@ -21,7 +21,7 @@ using namespace std;
 
 void main()
 {
-	cout << "Hello World!" << endl;		// Send message to screen
+	cout << "Hello Beautiful World!" << endl;		// Send message to screen
 	cin.ignore();						// Freeze the screen display
 	cin.get();
 }
