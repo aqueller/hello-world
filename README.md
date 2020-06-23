@@ -1,4 +1,4 @@
 # hello-world
 Tutorial project
 
-Practice repository for creating a Hello World C++ project
+Practice repository for creating Hello World projects in Java and C++
