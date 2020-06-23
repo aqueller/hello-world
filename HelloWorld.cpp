@@ -10,7 +10,7 @@
 // The following line is a compiler directive. It instructs the compiler
 // to use a I/O library that we will be using in our program.
 
-#include <iostream>
+// #include <iostream>
 
 // We'll discuss namespace later in this session. For now, use it as-is
 
